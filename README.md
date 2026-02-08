@@ -89,16 +89,15 @@ RegisterNumber: 212225040325
 ## Output:
 ![WhatsApp Image 2026-02-08 at 9 30 53 PM](https://github.com/user-attachments/assets/50472dfc-c9b7-4757-b523-f5368d62dbf8)
 
-![WhatsApp Image 2026-02-08 at 9 30 53 PM](https://github.com/user-attachments/assets/4236eca5-053a-48a0-8247-7f3b2e3e1ae5)
+![WhatsApp Image 2026-02-08 at 9 30](https://github.com/user-attachments/assets/5ba40c00-6900-4706-82aa-a96a5615c3fc)
 
-![WhatsApp Image 2026-02-08 at 9 30 51 PM](https://github.com/user-attachments/assets/ae9fd5ee-5907-4223-9f3d-2cf2a3ff8b49)
+![price](https://github.com/user-attachments/assets/e87fed78-cf71-4f02-be82-4b91017f4e4c)
 
-![price](https://github.com/user-attachments/assets/a391b983-9e10-4b87-b34c-328931aa1213)
+![WhatsApp Image 2026-02-08 at 9 30 51 PM](https://github.com/user-attachments/assets/cebea0a7-0c4a-42ee-afd3-e2a2ee0cb847)
 
-![WhatsApp Image 2026-02-08 at 9 30 51 PM](https://github.com/user-attachments/assets/d817bed8-d8a6-4beb-9168-a0c77d0166b2)
+![WhatsApp Image 2026-02-08 at 9 30 49 PM](https://github.com/user-attachments/assets/e483f411-0b47-4c34-ac7e-cc40efa30146)
 
-![WhatsApp Image 2026-02-08 at 9 30 49 PM](https://github.com/user-attachments/assets/325f0ae9-4ab2-45ed-9b8c-b5d60b903579)
-
+<img width="1459" height="570" alt="Screenshot 2026-02-08 220619" src="https://github.com/user-attachments/assets/a763fe4b-d247-4ae9-bb1a-90c13d3acef9" />
 
 ## Result:
 Thus, the program to implement a linear regression model for predicting car prices is written and verified using Python programming, along with the testing of key assumptions for linear regression.
