@@ -44,8 +44,8 @@ model.fit(x_train_scaled, y_train)
 
 y_pred=model.predict(x_test_scaled)
 
-print('Name: Anisha A')
-print('Reg no: 212225220009')
+print('Name: RAGHUL.S')
+print('Reg no: 212225040325')
 print("MODEL COEFFICIENTS: ")
 for feature,coef in zip(x.columns, model.coef_):
     print(f"{feature:>12}: {coef:>10}")
